@@ -5,9 +5,9 @@
 # Site
 title: Leo Chen的个人博客
 subtitle:
-description:
+description: 腰缠十万贯，骑鹤下扬州~
 keywords:
-author: 陈兴宇
+author: Xingyu.Chen
 language:
 timezone:
 
@@ -80,3 +80,4 @@ theme: next
 deploy:
   type:git
   repo:https://github.com/yibiliyabarca/yibiliyabarca.github.io.git
+  branch:master
